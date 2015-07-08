@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<apps>
+    <app name="MercurySharedBusinessServices-Prematch" xml="MercurySharedBusinessServices-Prematch.xml"/>
+    <app name="Testing-RunningBall" xml="Testing-RunningBall.xml"/>
+    <app name="BEOperations_Agent_Prematch" xml="BEOperations_Agent_Prematch.xml"/>
+    <app name="BESelectionPrice_Agent_Prematch" xml="BESelectionPrice_Agent_Prematch.xml"/>
+    <app name="BEOperations_Agent_Inplay" xml="BEOperations_Agent_Inplay.xml"/>
+    <app name="InputControlSetup_Utility_5.1.0.0.1" xml="InputControlSetup_Utility_5.1.0.0.1.xml"/>
+    <app name="BESelectionPrice_Agent_Inplay" xml="BESelectionPrice_Agent_Inplay.xml"/>
+    <app name="MercuryFeedServices-Inplay" xml="MercuryFeedServices-Inplay.xml"/>
+    <app name="RDSequenceWrapper_Prematch" xml="RDSequenceWrapper_Prematch.xml"/>
+    <app name="MercuryUtilityServices-Inplay" xml="MercuryUtilityServices-Inplay.xml"/>
+    <app name="BEPublish_Agent_Prematch" xml="BEPublish_Agent_Prematch.xml"/>
+    <app name="UploadRefData" xml="UploadRefData.xml"/>
+    <app name="CDS_Archive" xml="CDS_Archive.xml"/>
+    <app name="Testing-BetRadar" xml="Testing-BetRadar.xml"/>
+    <app name="BE_ApplyToAll_Agent" xml="BE_ApplyToAll_Agent.xml"/>
+    <app name="BEPublish_Agent_Inplay" xml="BEPublish_Agent_Inplay.xml"/>
+    <app name="RefData_Agent_Inplay" xml="RefData_Agent_Inplay.xml"/>
+    <app name="RDSequenceWrapper_Inplay" xml="RDSequenceWrapper_Inplay.xml"/>
+    <app name="Cache_Agent3" xml="Cache_Agent3.xml"/>
+    <app name="Cache_Agent2" xml="Cache_Agent2.xml"/>
+    <app name="Cache_Agent1" xml="Cache_Agent1.xml"/>
+    <app name="Cache_Agent7" xml="Cache_Agent7.xml"/>
+    <app name="Cache_Agent6" xml="Cache_Agent6.xml"/>
+    <app name="RefData_Agent_Prematch" xml="RefData_Agent_Prematch.xml"/>
+    <app name="Cache_Agent5" xml="Cache_Agent5.xml"/>
+    <app name="MercuryPublishingServices-Inplay" xml="MercuryPublishingServices-Inplay.xml"/>
+    <app name="Cache_Agent4" xml="Cache_Agent4.xml"/>
+    <app name="MercuryFeedServices-Prematch" xml="MercuryFeedServices-Prematch.xml"/>
+    <app name="BEStale_Operations" xml="BEStale_Operations.xml"/>
+    <app name="MercuryPublishingServices-Prematch" xml="MercuryPublishingServices-Prematch.xml"/>
+    <app name="StaleWrapper" xml="StaleWrapper.xml"/>
+    <app name="MercurySharedBusinessServices-BIP" xml="MercurySharedBusinessServices-BIP.xml"/>
+    <app name="MercuryUtilityServices-Prematch" xml="MercuryUtilityServices-Prematch.xml"/>
+    <app name="Testing-TXOdds-FB" xml="Testing-TXOdds-FB.xml"/>
+    <app name="Football_agent_Prematch" xml="Football_agent_Prematch.xml"/>
+    <app name="Testing-HeronFH" xml="Testing-HeronFH.xml"/>
+    <app name="Cache_Agent8" xml="Cache_Agent8.xml"/>
+    <app name="Cache_Agent9" xml="Cache_Agent9.xml"/>
+    <app name="Football_agent_Inplay" xml="Football_agent_Inplay.xml"/>
+</apps>

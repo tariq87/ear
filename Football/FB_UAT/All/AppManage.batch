@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<apps>
+    <app name="MercurySharedBusinessServices-Prematch" ear="MercurySharedBusinessServices.ear" xml="MercurySharedBusinessServices-Prematch.xml"/>
+    <app name="Testing-RunningBall" ear="Testing_RB_FB.ear" xml="Testing-RunningBall.xml"/>
+    <app name="BEOperations_Agent_Prematch" ear="Mercury_BEOperations-5.ear" xml="BEOperations_Agent_Prematch.xml"/>
+    <app name="BESelectionPrice_Agent_Prematch" ear="Mercury_BEOperations-15.ear" xml="BESelectionPrice_Agent_Prematch.xml"/>
+    <app name="BEOperations_Agent_Inplay" ear="Mercury_BEOperations-6.ear" xml="BEOperations_Agent_Inplay.xml"/>
+    <app name="BESelectionPrice_Agent_Inplay" ear="Mercury_BEOperations-16.ear" xml="BESelectionPrice_Agent_Inplay.xml"/>
+    <app name="RDSequenceWrapper_Prematch" ear="RDProject.ear" xml="RDSequenceWrapper_Prematch.xml"/>
+    <app name="MercuryFeedServices-Inplay" ear="MercuryFeedFramework-InPlay.ear" xml="MercuryFeedServices-Inplay.xml"/>
+    <app name="MercuryUtilityServices-Inplay" ear="MercuryUtilityServices_InPlay.ear" xml="MercuryUtilityServices-Inplay.xml"/>
+    <app name="BEPublish_Agent_Prematch" ear="Mercury_BEOperations-2.ear" xml="BEPublish_Agent_Prematch.xml"/>
+    <app name="UploadRefData" ear="UploadRefData.ear" xml="UploadRefData.xml"/>
+    <app name="CDS_Archive" ear="Mercury_BEOperations-4.ear" xml="CDS_Archive.xml"/>
+    <app name="Testing-BetRadar" ear="Testing-BetRadar_Inplay.ear" xml="Testing-BetRadar.xml"/>
+    <app name="BE_ApplyToAll_Agent" ear="Mercury_BEOperations-7.ear" xml="BE_ApplyToAll_Agent.xml"/>
+    <app name="BEPublish_Agent_Inplay" ear="Mercury_BEOperations-3.ear" xml="BEPublish_Agent_Inplay.xml"/>
+    <app name="Cache_Agent3" ear="Mercury_BEOperations-12.ear" xml="Cache_Agent3.xml"/>
+    <app name="RefData_Agent_Inplay" ear="Mercury_RefDataOperations-1.ear" xml="RefData_Agent_Inplay.xml"/>
+    <app name="RDSequenceWrapper_Inplay" ear="RDProject-1.ear" xml="RDSequenceWrapper_Inplay.xml"/>
+    <app name="Cache_Agent2" ear="Mercury_BEOperations-13.ear" xml="Cache_Agent2.xml"/>
+    <app name="Cache_Agent1" ear="Mercury_BEOperations-14.ear" xml="Cache_Agent1.xml"/>
+    <app name="Cache_Agent7" ear="Mercury_BEOperations-10.ear" xml="Cache_Agent7.xml"/>
+    <app name="Cache_Agent6" ear="Mercury_BEOperations.ear" xml="Cache_Agent6.xml"/>
+    <app name="RefData_Agent_Prematch" ear="Mercury_RefDataOperations.ear" xml="RefData_Agent_Prematch.xml"/>
+    <app name="Cache_Agent5" ear="Mercury_BEOperations-1.ear" xml="Cache_Agent5.xml"/>
+    <app name="Cache_Agent4" ear="Mercury_BEOperations-11.ear" xml="Cache_Agent4.xml"/>
+    <app name="MercuryPublishingServices-Inplay" ear="MercuryPublishingServices-1.ear" xml="MercuryPublishingServices-Inplay.xml"/>
+    <app name="MercuryFeedServices-Prematch" ear="MercuryFeedFramework-Prematch.ear" xml="MercuryFeedServices-Prematch.xml"/>
+    <app name="BEStale_Operations" ear="Mercury_Cache_BEOperations.ear" xml="BEStale_Operations.xml"/>
+    <app name="MercuryPublishingServices-Prematch" ear="MercuryPublishingServices.ear" xml="MercuryPublishingServices-Prematch.xml"/>
+    <app name="MercuryUtilityServices-Prematch" ear="MercuryUtilityServices_Prematch.ear" xml="MercuryUtilityServices-Prematch.xml"/>
+    <app name="MercurySharedBusinessServices-BIP" ear="MercurySharedBusinessServices-1.ear" xml="MercurySharedBusinessServices-BIP.xml"/>
+    <app name="StaleWrapper" ear="CleanStaleDataFromBE.ear" xml="StaleWrapper.xml"/>
+    <app name="Testing-TXOdds-FB" ear="Testing_TXOdds_FB.ear" xml="Testing-TXOdds-FB.xml"/>
+    <app name="Football_agent_Prematch" ear="RM_FootBall.ear" xml="Football_agent_Prematch.xml"/>
+    <app name="Cache_Agent8" ear="Mercury_BEOperations-9.ear" xml="Cache_Agent8.xml"/>
+    <app name="Testing-HeronFH" ear="Testing_HeronPricingFeed.ear" xml="Testing-HeronFH.xml"/>
+    <app name="Cache_Agent9" ear="Mercury_BEOperations-8.ear" xml="Cache_Agent9.xml"/>
+    <app name="GlobalSuspendUtility" ear="GlobalSuspendUtility.ear" xml="GlobalSuspendUtility.xml"/>
+    <app name="Football_agent_Inplay" ear="RM_FootBall-1.ear" xml="Football_agent_Inplay.xml"/>
+</apps>
